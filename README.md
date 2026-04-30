@@ -1,7 +1,23 @@
 # AI-Story-Illustration-Assistant
 
-A lightweight tool that:-
-  1.Generates children’s story ideas
-  2.Expands them into short narratives
-  3.Produces illustration prompts for each scene
-This directly aligns with a children’s content / art direction workflow.
+
+This project explores how AI can assist creative teams in storytelling and visual ideation.
+
+## Actions:
+- Generates children's stories from a theme
+- Breaks them into scenes
+- Creates detailed illustration prompts for each scene
+
+## Why this matters
+This tool demonstrates how AI can support art direction by:
+- Speeding up ideation
+- Assisting in narrative development
+- Providing structured prompts for illustrators
+
+## Techology used
+- Python
+- OpenAI API (LLM)
+- Prompt engineering
+
+## Use case
+Designed for creative teams working on children's books, helping bridge storytelling and visual design workflows.
